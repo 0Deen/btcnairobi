@@ -14,8 +14,7 @@ img="![alt text](image.png)";
 
 
 ```bash
-git clone [https://github.com/DeenRamah/btcnairobi]
-cd brainwave
+git clone https://github.com/0Deen/btcnairobi
 ```
 
 **Installation**
